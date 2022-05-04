@@ -1,5 +1,3 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
-
 # Rafa's Midi
 <p align="justify">Esse projeto tem como objetivo manipular elementos da DOM, executando sons de acordo com a tecla que foi selecionada.</p>
 
