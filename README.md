@@ -28,6 +28,6 @@ Antes de começar, é bom ter um bom editor para trabalhar com o código como:
 [VSCode](https://code.visualstudio.com) ou [Sublime](https://www.sublimetext.com/).
 
 # Autor
-Rafael Pino
+Rafael Pino 
 
 
