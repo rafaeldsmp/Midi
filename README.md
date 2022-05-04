@@ -1,5 +1,5 @@
 # Rafa's Midi
-<p align="justify">Esse projeto tem como objetivo manipular elementos da DOM, executando sons de acordo com a tecla que foi selecionada.</p>
+<p align="justify">Esse projeto tem como objetivo manipular elementos da DOM, reforçando assim os conhecimentos adquiridos.</p>
 
 <p align='center'>
  <a href='#sobre'>Sobre</a>
@@ -10,7 +10,7 @@
 </p>
 
 # Sobre
-<p>Projeto que tem como objetivo manipular elementos da DOM, utilizando de uma Midi que de acordo com a tecla apertada, irá ter sons diferentes. Exercício usado para reforçar os aprendizados adquiridos, associando o javascript com o HTML através da DOM</p>
+<p>Projeto que tem como objetivo manipular elementos da DOM, utilizando de uma Midi que de acordo com a tecla selecionada, irá ter sons diferentes. Exercício usado para reforçar os aprendizados adquiridos, associando o javascript com o HTML através da DOM.</p>
 
 # Tecnologias
 <p align='center'>
